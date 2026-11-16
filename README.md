@@ -1,6 +1,6 @@
 # hadiah
 hadiah untuk kalian wahai teman-teman
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
 <meta charset="utf-8">
